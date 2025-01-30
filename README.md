@@ -1,2 +1,0 @@
-# azurebasic
-Azure Basic Deployment
